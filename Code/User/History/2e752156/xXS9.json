@@ -1,0 +1,6 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "window.customTitleBarVisibility": "auto"
+}

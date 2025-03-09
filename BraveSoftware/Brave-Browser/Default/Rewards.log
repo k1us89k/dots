@@ -1,0 +1,7 @@
+--------------------------------------------------------------------------------
+[Mar 02, 2025 11:55:06.3 AM GMT:ERROR:get_ui_cards.cc(94)] Unexpected status code: 429
+[Mar 02, 2025 11:55:07.2 AM GMT:ERROR:get_ui_cards.cc(94)] Unexpected status code: 429
+--------------------------------------------------------------------------------
+[Mar 06, 2025 7:25:41.8 PM GMT:ERROR:redeem_payment_tokens.cc(99)] Failed to redeem payment tokens
+[Mar 06, 2025 7:30:32.1 PM GMT:ERROR:redeem_payment_tokens.cc(99)] Failed to redeem payment tokens
+[Mar 06, 2025 7:40:01.5 PM GMT:ERROR:redeem_payment_tokens.cc(99)] Failed to redeem payment tokens

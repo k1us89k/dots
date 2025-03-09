@@ -1,0 +1,24 @@
+2025-03-09 15:45:52.059 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-03-09 15:45:52.059 [info] [AutoSync] Enabled.
+2025-03-09 15:45:52.059 [info] [AutoSync] Suspended until auth token is available.
+2025-03-09 15:45:52.285 [info] [AutoSync] Triggered by Interval
+2025-03-09 15:45:52.285 [info] Sync started.
+2025-03-09 15:45:52.911 [info] Settings: No changes found during synchronizing settings.
+2025-03-09 15:45:52.915 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-09 15:45:52.917 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-09 15:45:52.919 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-09 15:45:52.922 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-09 15:45:52.935 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-09 15:45:52.935 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-09 15:45:52.936 [info] Sync done. Took 652ms
+2025-03-09 15:46:02.681 [info] [AutoSync] Triggered by Activity
+2025-03-09 15:46:02.681 [info] Sync started.
+2025-03-09 15:46:02.838 [info] Settings: No changes found during synchronizing settings.
+2025-03-09 15:46:02.844 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-09 15:46:02.850 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-09 15:46:02.854 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-09 15:46:04.366 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2025-03-09 15:46:04.370 [info] GlobalState: Updated last synchronized ui state
+2025-03-09 15:46:04.402 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-09 15:46:04.402 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-09 15:46:04.402 [info] Sync done. Took 1723ms

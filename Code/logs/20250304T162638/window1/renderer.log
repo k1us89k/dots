@@ -1,0 +1,8 @@
+2025-03-04 16:26:39.383 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-04 16:26:39.383 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-04 16:26:39.383 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-04 16:26:39.384 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-04 16:26:39.576 [info] Started local extension host with pid 27473.
+2025-03-04 16:26:40.244 [info] Settings Sync: Token updated for the account k1us89k
+2025-03-04 16:26:40.249 [info] Settings Sync: Account status changed from uninitialized to available
+2025-03-04 16:26:42.567 [info] [perf] Render performance baseline is 15ms

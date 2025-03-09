@@ -1,0 +1,11 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.menuBarVisibility": "compact",
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Wal Bordered",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "'Hack NF'",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace ,",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.sideBar.location": "right"
+}
