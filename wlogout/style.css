@@ -1,0 +1,57 @@
+* {
+        background-image: none;
+        box-shadow: none;
+}
+
+@import '/home/kau/.cache/wal/colors-waybar.css';
+
+window {
+        font-family: "Pacifico";
+        font-size: 1.8em; /* Increased font size for the window */
+        background-color: rgba(1, 1, 1, 0.6);
+}
+
+button {
+    font-size: 1.5em; /* Increased font size for buttons */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+    background-color: rgba(200, 220, 255, 0);
+    animation: gradient_f 20s ease-in infinite;
+    border-radius: 80px; /* Increased border radius for a more rounded look */
+}
+
+button:hover {
+    opacity: 0.8;
+    background-size: 30%;
+    margin: 30px;
+    border-radius: 80px;
+    transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
+    box-shadow: 0 0 50px @color11;
+    color: #000000;
+    background-color: @color11;
+}
+
+#lock {
+        margin: 10px;
+        border-radius: 20px;
+    background-image: image(url("/usr/share/wlogout/icons/lock.png"));
+}
+
+#logout {
+        margin: 10px;
+        border-radius: 20px;
+    background-image: image(url("/usr/share/wlogout/icons/logout.png"));
+}
+
+#shutdown {
+        margin: 10px;
+        border-radius: 20px;
+    background-image: image(url("/usr/share/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+        margin: 10px;
+        border-radius: 20px;
+    background-image: image(url("/usr/share/wlogout/icons/reboot.png"));
+}
