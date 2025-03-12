@@ -1,0 +1,4 @@
+2025-03-10 20:55:09.300 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 20:55:09.315 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 20:55:09.317 [info] Marked extension as removed github.copilot-chat-0.24.1
+2025-03-10 20:55:09.319 [info] Deleted marked for removal extension from disk github.copilot-chat /home/kau/.vscode/extensions/github.copilot-chat-0.24.1

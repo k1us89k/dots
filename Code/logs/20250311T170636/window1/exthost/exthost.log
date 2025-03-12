@@ -1,0 +1,20 @@
+2025-03-11 17:06:37.053 [info] Extension host with pid 6145 started
+2025-03-11 17:06:37.053 [info] Skipping acquiring lock for /home/kau/.config/Code/User/workspaceStorage/613ba04ef6972af0852a86d484c74c6c.
+2025-03-11 17:06:37.101 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-11 17:06:37.116 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-11 17:06:37.156 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-11 17:06:37.158 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-03-11 17:06:37.180 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-11 17:06:37.219 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-11 17:06:37.279 [info] Eager extensions activated
+2025-03-11 17:06:37.293 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 17:06:37.295 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 17:06:37.307 [info] ExtensionService#_doActivateExtension codespaces-contrib.codeswing, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 17:06:37.525 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 17:06:37.767 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 17:06:38.058 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-03-11 17:06:38.387 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-11 17:06:38.392 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-11 17:06:38.424 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-11 17:08:52.568 [info] Extension host terminating: renderer closed the MessagePort
+2025-03-11 17:08:52.597 [info] Extension host with pid 6145 exiting with code 0

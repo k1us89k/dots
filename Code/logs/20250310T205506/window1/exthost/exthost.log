@@ -1,0 +1,32 @@
+2025-03-10 20:55:09.512 [info] Extension host with pid 29272 started
+2025-03-10 20:55:09.512 [info] Skipping acquiring lock for /home/kau/.config/Code/User/workspaceStorage/613ba04ef6972af0852a86d484c74c6c.
+2025-03-10 20:55:09.539 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-10 20:55:09.569 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-10 20:55:09.570 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-03-10 20:55:09.597 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-10 20:55:09.638 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-10 20:55:09.698 [info] Eager extensions activated
+2025-03-10 20:55:09.712 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 20:55:09.714 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 20:55:09.725 [info] ExtensionService#_doActivateExtension codespaces-contrib.codeswing, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 20:55:09.925 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 20:55:10.165 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 20:55:10.453 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 20:55:10.747 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-10 20:55:10.752 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-10 20:55:10.786 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-10 20:55:10.812 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-10 20:55:20.024 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kau/.config/dconf/user.XE3N22'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/kau/.vscode/extensions/github.copilot-chat-0.25.0/dist/extension.js:652:18423)
+2025-03-10 21:00:41.088 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kau/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/kau/.vscode/extensions/github.copilot-chat-0.25.0/dist/extension.js:652:18423)
+2025-03-10 21:05:25.627 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kau/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/kau/.vscode/extensions/github.copilot-chat-0.25.0/dist/extension.js:652:18423)
+2025-03-10 21:07:01.599 [info] Extension host terminating: renderer closed the MessagePort
+2025-03-10 21:07:01.621 [info] Extension host with pid 29272 exiting with code 0

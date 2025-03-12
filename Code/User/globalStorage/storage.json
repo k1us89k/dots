@@ -1,15 +1,18 @@
 {
     "telemetry.sqmId": "",
     "telemetry.machineId": "339bd4ba1d9f919d0fc84fa18cea53b0198d928354989d8aa364c49ac467f6ca",
-    "telemetry.devDeviceId": "5f04cdb7-9c22-43f2-9d3c-564109e445fa",
+    "telemetry.devDeviceId": "5aa5959a-3d7e-4292-aed3-cea353c7e86f",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1741515432991"
+                "folderUri": "vscode-vfs://github/k1us89k/dots"
+            },
+            {
+                "folderUri": "file:///home/kau/dots"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
@@ -29,20 +32,11 @@
             "file:///home/kau/.config/hyprpanel": "__default__profile__",
             "file:///home/kau/.mozilla/firefox/0rfowhpd.default-release/chrome": "__default__profile__",
             "file:///home/kau/Downloads/Dotfiles/.config/hypr": "__default__profile__",
-            "file:///home/kau/.cache": "__default__profile__"
+            "file:///home/kau/.cache": "__default__profile__",
+            "file:///home/kau/dots": "__default__profile__",
+            "vscode-vfs://github/k1us89k/dots": "__default__profile__"
         },
-        "emptyWindows": {
-            "1741094988497": "__default__profile__",
-            "1741095044875": "__default__profile__",
-            "1741255123634": "__default__profile__",
-            "1741284681166": "__default__profile__",
-            "1741284806041": "__default__profile__",
-            "1741285629879": "__default__profile__",
-            "1741506556525": "__default__profile__",
-            "1741511046536": "__default__profile__",
-            "1741515351518": "__default__profile__",
-            "1741515432991": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -1919,23 +1913,23 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#000025",
+    "themeBackground": "#102440",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "rgba(191, 191, 199, 0.6)",
-            "background": "#000025",
-            "editorBackground": "#000025",
-            "titleBarBackground": "#00001f",
-            "titleBarBorder": "rgba(89, 89, 108, 0.2)",
-            "activityBarBackground": "#00001f",
-            "activityBarBorder": "rgba(89, 89, 108, 0.2)",
-            "sideBarBackground": "#00001f",
-            "sideBarBorder": "rgba(89, 89, 108, 0.2)",
-            "statusBarBackground": "#00001f",
-            "statusBarBorder": "rgba(89, 89, 108, 0.2)",
-            "statusBarNoFolderBackground": "#000025"
+            "foreground": "rgba(194, 198, 204, 0.6)",
+            "background": "#102440",
+            "editorBackground": "#102440",
+            "titleBarBackground": "#0d1e35",
+            "titleBarBorder": "rgba(99, 108, 121, 0.2)",
+            "activityBarBackground": "#0d1e35",
+            "activityBarBorder": "rgba(99, 108, 121, 0.2)",
+            "sideBarBackground": "#0d1e35",
+            "sideBarBorder": "rgba(99, 108, 121, 0.2)",
+            "statusBarBackground": "#0d1e35",
+            "statusBarBorder": "rgba(99, 108, 121, 0.2)",
+            "statusBarNoFolderBackground": "#102440"
         },
         "layoutInfo": {
             "sideBarSide": "right",
@@ -1950,13 +1944,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/kau/.config/Code/Backups/1741515432991",
+            "folder": "file:///home/kau/dots",
+            "backupPath": "/home/kau/.config/Code/Backups/2dd8d1ee86f05d0ec0eada53c9459532",
             "uiState": {
                 "mode": 1,
-                "x": 968,
-                "y": 638,
-                "width": 939,
-                "height": 549,
+                "x": 796,
+                "y": 73,
+                "width": 467,
+                "height": 1114,
                 "zoomLevel": 3
             }
         },

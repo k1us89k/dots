@@ -1,0 +1,14 @@
+2025-03-10 12:51:43.633 [info] Started local extension host with pid 118459.
+2025-03-10 12:51:43.721 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.181 [info] Settings Sync: Token updated for the account k1us89k
+2025-03-10 12:51:44.202 [info] Settings Sync: Account status changed from uninitialized to available
+2025-03-10 12:51:46.398 [info] [perf] Render performance baseline is 20ms
+2025-03-10 12:51:53.687 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-03-10 12:51:53.687 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-03-10 12:51:53.699 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-03-10 12:51:53.699 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-03-10 12:51:54.190 [info] Started local extension host with pid 118581.
+2025-03-10 12:51:54.714 [info] Settings Sync: Token updated for the account k1us89k
+2025-03-10 12:51:54.715 [info] Settings Sync: Account status changed from uninitialized to available
+2025-03-10 12:51:56.872 [info] [perf] Render performance baseline is 16ms
+2025-03-10 12:53:08.451 [error] An unknown error occurred. Please consult the log for more details.

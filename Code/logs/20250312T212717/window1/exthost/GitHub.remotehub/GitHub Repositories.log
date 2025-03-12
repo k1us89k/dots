@@ -1,0 +1,66 @@
+2025-03-12 21:27:19.368 [warning] Running on the desktop; workspaceId=ea4e603e73ed287151413017978e3487; storageUri=vscode-userdata:/home/kau/.config/Code/User/globalStorage/github.remotehub
+2025-03-12 21:27:19.368 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2025-03-12 21:27:19.368 [info] [    6] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/settings.json)
+2025-03-12 21:27:19.368 [info] [    8] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/tasks.json)
+2025-03-12 21:27:19.368 [info] [   10] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/launch.json)
+2025-03-12 21:27:19.368 [info] [   18] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.git/config)
+2025-03-12 21:27:19.368 [info] [   20] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/extensions.json)
+2025-03-12 21:27:19.368 [info] [    6] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/settings.json): Not found; no operations
+2025-03-12 21:27:19.368 [info] [    8] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/tasks.json): Not found; no operations
+2025-03-12 21:27:19.368 [info] [    6] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/settings.json) took 6 ms
+2025-03-12 21:27:19.368 [info] [   10] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/launch.json): Not found; no operations
+2025-03-12 21:27:19.368 [info] [    8] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/tasks.json) took 6 ms
+2025-03-12 21:27:19.368 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 15 ms
+2025-03-12 21:27:19.368 [info] [   10] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/launch.json) took 6 ms
+2025-03-12 21:27:19.368 [info] [   18] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.git/config): Not found; no operations
+2025-03-12 21:27:19.368 [info] [   20] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/extensions.json): Not found; no operations
+2025-03-12 21:27:19.368 [info] [   18] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.git/config) took 6 ms
+2025-03-12 21:27:19.368 [info] [   20] ChangeStore.readFile(vscode-vfs://github/k1us89k/dots/.vscode/extensions.json) took 7 ms
+2025-03-12 21:27:19.368 [info] [   30] GitHub.createMetadata(vscode-vfs://github/k1us89k/dots, undefined)
+2025-03-12 21:27:19.368 [info] Parsed metadata for vscode-vfs://github/k1us89k/dots: name k1us89k/dots, owner k1us89k, name dots, ref undefined
+2025-03-12 21:27:19.368 [info] [   31] GitHub.ensureAuthenticated
+2025-03-12 21:27:19.368 [info] [   32] GitHub.sync(vscode-vfs://github/k1us89k/dots, resolution=0, to=undefined)
+2025-03-12 21:27:19.368 [info] [   33] GitHub.fetch(vscode-vfs://github/k1us89k/dots, force=true, to=undefined)
+2025-03-12 21:27:19.368 [info] [   34] GitHub.sync(vscode-vfs://github/k1us89k/dots, resolution=0, to=undefined)
+2025-03-12 21:27:19.368 [info] [   35] GitHub.fetch(vscode-vfs://github/k1us89k/dots, force=true, to=undefined)
+2025-03-12 21:27:19.368 [info] [   31] GitHub.ensureAuthenticated took 61 ms
+2025-03-12 21:27:20.652 [info] [   30] GitHub.createMetadata(vscode-vfs://github/k1us89k/dots, undefined) • Prefetching tree for a5612cc5c4677b660bd9b0d31483fe726ad6a97a...
+2025-03-12 21:27:20.652 [info] [   37] GitHub.createFileTree(github://github/k1us89k/dots:a5612cc5c4677b660bd9b0d31483fe726ad6a97a)
+2025-03-12 21:27:20.652 [info] [   38] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:undefined)
+2025-03-12 21:27:20.654 [info] [   39] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:)
+2025-03-12 21:27:20.655 [info] [   40] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:.vscode)
+2025-03-12 21:27:20.656 [info] [   37] GitHub.createFileTree(github://github/k1us89k/dots:a5612cc5c4677b660bd9b0d31483fe726ad6a97a) took 1 ms
+2025-03-12 21:27:20.656 [warning] [   30] GitHub.createMetadata(vscode-vfs://github/k1us89k/dots, undefined) took 2215 ms • HEAD=a5612cc5c4677b660bd9b0d31483fe726ad6a97a
+2025-03-12 21:27:20.691 [info] [   58] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a)
+2025-03-12 21:27:20.692 [info] [   58] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a) • Getting .tar from memory...
+2025-03-12 21:27:20.692 [info] [   58] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-03-12 21:27:20.716 [info] [   64] GitHub.getFileList(github://github/k1us89k/dots)
+2025-03-12 21:27:20.759 [info] [   58] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a) took 67 ms (Getting .tar from disk took 67 ms) • Failed; Canceled: Canceled
+2025-03-12 21:27:20.765 [error] G1.getTarCore
+Canceled: Canceled
+2025-03-12 21:27:20.768 [info] [   73] GitHub.getFileList(github://github/k1us89k/dots)
+2025-03-12 21:27:21.184 [warning] [   35] GitHub.fetch(vscode-vfs://github/k1us89k/dots, force=true, to=undefined) took 2746 ms • Up to date
+2025-03-12 21:27:21.184 [warning] [   34] GitHub.sync(vscode-vfs://github/k1us89k/dots, resolution=0, to=undefined) took 2746 ms • to=a5612cc5c4677b660bd9b0d31483fe726ad6a97a
+2025-03-12 21:27:21.190 [info] [   39] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:): Tree=a5612cc5c4677b660bd9b0d31483fe726ad6a97a; Tree query took 538 ms • Waiting for permissions...
+2025-03-12 21:27:21.190 [info] [   39] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:) Permissions query took 0 ms • Filling trie...
+2025-03-12 21:27:21.190 [warning] [   39] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:) took 538 ms (Filling trie took 0 ms) • Tree=a5612cc5c4677b660bd9b0d31483fe726ad6a97a
+2025-03-12 21:27:21.190 [warning] [    1] Time to root directory took 2770 ms
+2025-03-12 21:27:21.240 [warning] [   33] GitHub.fetch(vscode-vfs://github/k1us89k/dots, force=true, to=undefined) took 2803 ms • Up to date
+2025-03-12 21:27:21.241 [warning] [   32] GitHub.sync(vscode-vfs://github/k1us89k/dots, resolution=0, to=undefined) took 2803 ms • to=a5612cc5c4677b660bd9b0d31483fe726ad6a97a
+2025-03-12 21:27:21.458 [info] [   38] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:undefined): Tree=a5612cc5c4677b660bd9b0d31483fe726ad6a97a; Tree query took 806 ms • Waiting for permissions...
+2025-03-12 21:27:21.466 [info] [   38] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:undefined) Permissions query took 0 ms • Filling trie...
+2025-03-12 21:27:21.466 [warning] [   38] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:undefined) took 815 ms (Filling trie took 8 ms) • Tree=a5612cc5c4677b660bd9b0d31483fe726ad6a97a
+2025-03-12 21:27:21.469 [info] [   96] FileTree.loadAllContent(a5612cc5c4677b660bd9b0d31483fe726ad6a97a)
+2025-03-12 21:27:21.469 [info] [   97] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a)
+2025-03-12 21:27:21.470 [info] [   97] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a) • Getting .tar from memory...
+2025-03-12 21:27:21.470 [info] [   97] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-03-12 21:27:21.473 [info] [   97] TarPit.getTar(github/k1us89k/dots/a5612cc5c4677b660bd9b0d31483fe726ad6a97a) took 3 ms (Getting .tar from disk took 3 ms) • Skipped download
+2025-03-12 21:27:21.473 [info] [   96] FileTree.loadAllContent(a5612cc5c4677b660bd9b0d31483fe726ad6a97a) took 4 ms (Tar cache query took 4 ms) • No cached Tar
+2025-03-12 21:27:22.002 [warning] [   64] GitHub.getFileList(github://github/k1us89k/dots) took 1286 ms
+2025-03-12 21:27:22.209 [error] /home/kau/.vscode/extensions/github.remotehub-0.64.0/dist/extension.js:160:26289
+HttpError: Not Found
+2025-03-12 21:27:22.209 [warning] [   40] FileTree.load(a5612cc5c4677b660bd9b0d31483fe726ad6a97a:.vscode) took 1557 ms (Tree query took 1557 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2025-03-12 21:27:26.280 [warning] [   73] GitHub.getFileList(github://github/k1us89k/dots) took 5512 ms
+2025-03-12 21:37:40.594 [warning] Running on the desktop; workspaceId=c2fc9e13b2edfc1a32a106fc4bc7b5d3; storageUri=vscode-userdata:/home/kau/.config/Code/User/globalStorage/github.remotehub
+2025-03-12 21:37:40.594 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2025-03-12 21:37:40.594 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms

@@ -1,0 +1,28 @@
+2025-03-10 12:51:43.827 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:43.840 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:43.843 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:43.913 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:43.950 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:43.979 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.010 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.041 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.075 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.083 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.171 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.873 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.887 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:44.921 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:46.002 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:46.068 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:46.755 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:47.470 [info] Getting Manifest... github.copilot-chat
+2025-03-10 12:51:48.101 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.98.0","date":"2025-03-04T21:06:18.612Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/kau/.vscode/extensions/extensions.json","path":"/home/kau/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-03-10 12:51:49.138 [info] Getting Manifest... github.copilot
+2025-03-10 12:51:49.169 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:49.178 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:51.990 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 759ms.
+2025-03-10 12:51:52.231 [info] Extracted extension to file:///home/kau/.vscode/extensions/github.copilot-chat-0.25.0: github.copilot-chat
+2025-03-10 12:51:52.236 [info] Renamed to /home/kau/.vscode/extensions/github.copilot-chat-0.25.0
+2025-03-10 12:51:52.245 [error] [/home/kau/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-10 12:51:52.247 [info] Marked extension as removed github.copilot-chat-0.24.1
+2025-03-10 12:51:52.252 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/kau/.vscode/extensions/extensions.json

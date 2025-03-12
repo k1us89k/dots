@@ -1,0 +1,27 @@
+2025-03-12 21:27:19.502 [info] Using the Electron fetcher.
+2025-03-12 21:27:19.502 [info] Initializing Git extension service.
+2025-03-12 21:27:19.502 [info] Successfully activated the vscode.git extension.
+2025-03-12 21:27:19.502 [info] Enablement state of the vscode.git extension: true.
+2025-03-12 21:27:19.502 [info] Successfully registered Git commit message provider.
+2025-03-12 21:27:20.210 [info] Logged in as k1us89k
+2025-03-12 21:27:20.765 [info] loading virtual workspace contents resulted in false for: vscode-vfs://github/k1us89k/dots
+2025-03-12 21:27:21.004 [info] Got Copilot token for k1us89k
+2025-03-12 21:27:21.055 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-12 21:27:21.055 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-03-12 21:27:21.065 [info] Registering default platform agent...
+2025-03-12 21:27:26.713 [info] Fetched model metadata in 5693ms 8b18fcb4-c0c4-4825-afbb-da056016f1e2
+2025-03-12 21:27:26.840 [info] activationBlocker from 'languageModelAccess' took for 6445ms
+2025-03-12 21:27:30.922 [info] Using the Electron fetcher.
+2025-03-12 21:27:30.922 [info] Initializing Git extension service.
+2025-03-12 21:27:30.922 [info] Successfully activated the vscode.git extension.
+2025-03-12 21:27:30.922 [info] Enablement state of the vscode.git extension: true.
+2025-03-12 21:27:30.922 [info] Successfully registered Git commit message provider.
+2025-03-12 21:27:31.778 [info] Logged in as k1us89k
+2025-03-12 21:27:32.462 [info] Got Copilot token for k1us89k
+2025-03-12 21:27:32.497 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-12 21:27:32.497 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-03-12 21:27:32.507 [info] Registering default platform agent...
+2025-03-12 21:27:32.764 [info] Fetched model metadata in 289ms 90bfb100-09f6-4f03-a4dd-2945ba5a06d8
+2025-03-12 21:27:32.768 [info] activationBlocker from 'languageModelAccess' took for 908ms
+2025-03-12 21:37:51.261 [info] Fetched model metadata in 1124ms 57ce57c1-53b5-463c-8423-a556f09b345d
+2025-03-12 21:37:52.493 [info] Request ID for failed request: a4f4d170-93db-4b56-9c87-0ec0e801f8c0
